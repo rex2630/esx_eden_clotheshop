@@ -19,9 +19,3 @@ git clone https://github.com/ESX-PUBLIC/esx_eden_clotheshop.git clotheshop
 ```
 start esx_eden_clotheshop
 ```
-
-[SCREEN]
-
--- EN : https://img15.hostingpics.net/pics/348886Capturedcran20171202005329.png
-
--- FR : https://img15.hostingpics.net/pics/499448Capturedcran20171130214439.png
